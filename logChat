@@ -1,0 +1,16 @@
+sala = Big%20WS
+diego escribe -> Hello
+sala = Big%20WS
+Eliza escribe -> How do you do.  Please state your problem.
+sala = Big%20WS
+Juan escribe -> Bye
+sala = Big%20WS
+Eliza escribe -> Goodbye.  It was nice talking to you.
+sala = RESTful%20WS
+Pepe escribe -> Hello Eliza
+sala = RESTful%20WS
+Eliza escribe -> Hi.  What seems to be your problem ?
+sala = Big%20WS
+PEpe escribe -> Hello Eliza
+sala = Big%20WS
+Eliza escribe -> How do you do.  Please state your problem.
